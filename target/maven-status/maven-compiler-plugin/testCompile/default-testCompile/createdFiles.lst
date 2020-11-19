@@ -1,0 +1,9 @@
+com\bankautomation\Utilities\ReadConfig.class
+com\bankautomation\Utilities\Reporting.class
+com\bankautomation\pageObjects\LoginPage.class
+com\bankautomation\TestCases\TC_LoginData_002.class
+com\bankautomation\TestCases\BaseClass.class
+com\bankautomation\Utilities\XLUtils.class
+com\bankautomation\TestCases\TC_AddCustomerTest_003.class
+com\bankautomation\TestCases\TC_LoginTest_001.class
+com\bankautomation\pageObjects\AddCustomerPage.class
